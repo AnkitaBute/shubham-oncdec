@@ -1,4 +1,3 @@
-Hellow World 
-How are you 
-My name is Ankita 
-and Yours?
+Welcome to cloudblitz 
+this is remote repository 
+my name is Ankita Bute 
